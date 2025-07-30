@@ -11,8 +11,8 @@
 
 ### 🔹 Toast 메시지 출력 화면
 
-![Toast Close](assets/ToastClose.png) 
-![Toast Open](assets/ToastOpen.png) 
+![Toast Close](./assets/ToastClose.png) 
+![Toast Open](./assets/ToastOpen.png) 
 
 
 ---
