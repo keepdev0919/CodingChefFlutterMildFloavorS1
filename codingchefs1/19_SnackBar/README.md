@@ -12,6 +12,6 @@
 > 캡처 이미지 직접 추가할 것:
 
 ```md
-![Snackbar Open](./assets/SnackBarOpen.png)
-![Snackbar Close](./assets/SnackBarClose.png)
+![Snackbar Open](assets/SnackBarOpen.png)
+![Snackbar Close](assets/SnackBarClose.png)
 
